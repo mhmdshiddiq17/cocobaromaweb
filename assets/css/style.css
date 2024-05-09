@@ -1447,6 +1447,10 @@ div#mCSB_1_container{
   display: none !important;
 }
 
+.banner-carousel .logo-banner{
+  border-radius: 5%;
+}
+
 .banner-carousel .image-box{
   position: relative;
   opacity: 0;
